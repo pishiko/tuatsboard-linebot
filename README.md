@@ -14,4 +14,6 @@ TUAT S科掲示板更新通知LINEBOT on GAS
 1. webアプリケーションとして公開
 1. PostLine.gs内，main関数を時間をトリガーにして定期実行
 
+## その他
+
 学年やカテゴリーはGetTUATBoard.gs内でカスタマイズできます
